@@ -1,0 +1,30 @@
+//the file for styling the compoment of nav.jsx
+
+.navigation {
+    display: flex;
+    /* background-color: black; */
+    /* padding: 10px; */
+    /* background-color: #ff1493;
+    background-image: linear-gradient(to right, #ff1493, #8a2be2); */
+    background-color: black;
+  }
+  
+  .nav-item {
+    flex-grow: 1; /* Le contenu s'étend pour occuper tout l'espace disponible */
+    color: white;
+    padding: 18px ;
+    border: 0.5px solid white;
+    border-radius: 2px;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+  }
+  
+  /* Pour ajouter un espace entre les éléments */
+  .nav-item:not(:last-child) {
+    /* margin-right: 10px; */
+  }
+  .color{
+    color: white;
+    
+  }

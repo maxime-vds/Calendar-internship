@@ -1,0 +1,16 @@
+//the file for styling the compoment of calendar.jsx
+
+.calendar-bg {
+    background-image: url(/bg-mts.jpg);
+    background-size: cover; /* Applique l'image de fond pour couvrir toute la zone */
+    background-repeat: no-repeat;
+    height: 700px;
+}
+.color {
+    color: white;
+}
+.btn-cal{
+    display: flex;
+    justify-content: center;
+   
+}

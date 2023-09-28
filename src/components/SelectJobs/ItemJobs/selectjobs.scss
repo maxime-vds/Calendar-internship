@@ -1,0 +1,14 @@
+//the file for styling the compoment of selectJobs.jsx
+
+.nav-jobs{
+ background-color: black;
+ display: flex;
+}
+.nav-item-job{
+    flex-grow: 1; /* Le contenu s'étend pour occuper tout l'espace disponible */
+    color: white;
+    padding: 18px ;
+    border: 0.5px solid white;
+    border-radius: 2px;
+    font-size: 20px;
+}

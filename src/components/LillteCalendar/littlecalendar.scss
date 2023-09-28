@@ -1,0 +1,26 @@
+//the file for styling the compoment of littleCalendar.jsx
+.tes{
+    background: none;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    color: white;
+    border-radius: 50%; /* Créer une forme ronde */
+    background-color: black; /* Définir le fond noir */
+    padding: 10px; /* Ajuster l'espacement intérieur du bouton pour une meilleure apparence */
+    margin: 0 5px; /* Ajouter un espace entre les boutons */
+    width: 15%; /* Faire en sorte que le texte remplisse le bouton */
+   /* Aligner le contenu du bouton au centre */
+    justify-content: center; /* Centrer le texte horizontalement */
+    align-items: center; /* Centrer le texte verticalement */
+}
+.close{
+    border-radius: 50%;
+    border: 1px solide black;
+    background-color: black;
+    
+    color: white;
+    font-size: 22px;
+    margin: 12px;
+    padding: 12px;
+}

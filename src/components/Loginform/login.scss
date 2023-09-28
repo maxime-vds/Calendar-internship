@@ -1,0 +1,133 @@
+//the file for styling the compoment of login.jsx
+
+ * {
+     box-sizing: border-box;
+     margin: 0;
+     padding: 0;
+ }
+  
+ body {
+     font-family: Arial, sans-serif;
+     background-color: #f0f0f0;
+ }
+
+// /* Centrer le formulaire sur la page */
+ .space {
+    color: white;
+    padding-top: 200px;
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    font-weight:900;
+    
+ }
+
+.log {
+    background-image: url(/bg-mts.jpg);
+    background-size: cover; /* Applique l'image de fond pour couvrir toute la zone */
+    background-repeat: no-repeat;
+    
+}
+
+ .opacity {
+     opacity: 1;
+     margin: 25px;
+ }
+
+ form {
+     max-width: 400px;
+     margin: 0 auto;
+     padding: 20px;
+     background-color: #fff;
+     border: 1px solid #ccc;
+     border-radius: 4px;
+     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+ }
+
+// /* Style pour les étiquettes */
+ label {
+     display: block;
+     margin-bottom: 5px;
+ }
+
+// /* Style pour les champs de saisie */
+ input {
+     width: 100%;
+     padding: 10px;
+     margin-bottom: 15px;
+     border: 1px solid #ccc;
+     border-radius: 4px;
+ }
+
+// /* Style pour le bouton de soumission */
+ button {
+     width: 100%;
+     padding: 10px;
+     background-color: #007bff;
+     color: #fff;
+     border: none;
+     border-radius: 4px;
+     cursor: pointer;
+     transition: background-color 0.2s;
+ }
+
+ .submit {
+    background-color: black;
+    color: white;
+    border: 5px solid rgb(152, 67, 152);
+    border-radius: 50%; /* Fait du bouton un cercle en utilisant un border-radius de 50% */
+    width: 160px; /* Ajuste la largeur du bouton (diamètre du cercle) */
+    height: 160px; /* Ajuste la hauteur du bouton (diamètre du cercle) */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    // transition: background-color 0.2s;
+    margin-left: 60px;
+     
+ }
+ .submit p {
+    font-size: 18px;
+ }
+
+ .ttsub {
+     color: white;
+     text-decoration: none;
+ }
+
+ button:hover {
+     background-color: rgba(0, 0, 0, 0.603);
+ }
+
+ .style {
+    //  padding: 120px;
+    height: 140px;
+ }
+
+
+ .success-log{
+    background-color: black;
+    color: white;
+ }
+
+//  .success-log-red{
+//     color: red;
+//  }
+
+.checkbox-container {
+    display: flex;
+       
+}
+
+.checkbox-container label {
+    margin-left: 8px;
+}
+.checkbox{
+    width: 22px;
+    // transform: scale(1.5);
+       
+}
+.check-text{
+    font-size: 16px;
+    margin-bottom: 15px;
+
+}
