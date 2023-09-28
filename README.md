@@ -1,6 +1,5 @@
 # Internal Calendar 
 
-![Project Image](link-to-your-project-image.png)
 ![Project Image](https://github.com/maxime-vds/Internal-Calendar/blob/main/Internal-calendar/Capture%20d'%C3%A9cran%202023-09-28%20111258.png?raw=true)
 
 
