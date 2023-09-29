@@ -18,7 +18,9 @@ The Internal Calendar Project is a web application built with React.js and style
 
 This project is not completely responsive.
 
-**Screenshots:** 
+**Screenshots: (more img inside the folder E-commerceV2)** 
+![Project Image](internal-calendar-img/2-calendar.png)
+![Project Image](internal-calendar-img/3-calendar.png)
 
 ---
 ## Features
