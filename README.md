@@ -25,6 +25,7 @@ The Internal Calendar Project is a web application built with React.js and style
 ![Project Image](internal-calendar-img/3-calendar.png)
 
 ---
+
 ## Features
 
 - Secure login system connected to an API.
@@ -64,6 +65,8 @@ Open your browser and visit http://localhost:3000 to access the Radom Generator.
   - `/assets`: Reusable Images.
   - `/components`: Reusable React components.
    - `/styles`: SASS stylesheets.
+     
+---
 
 ## Usage
 To use the Internal Calendar:
@@ -71,6 +74,8 @@ To use the Internal Calendar:
 * Log in with your credentials.
 * Access and manage your calendar events.
 * The page only refreshes if you log out (token stored in memory).
+  
+---
 
 ## License
 This project is licensed under the MIT License.
