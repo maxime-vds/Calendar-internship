@@ -4,6 +4,7 @@
 
 
 ## Table of Contents
+
 - [Overview](#overview)
 - [Features](#features)
 - [Prerequisites](#prerequisites)
@@ -13,10 +14,10 @@
 - [License](#license)
 
 ---
-## Overview
-The Internal Calendar Project is a web application built with React.js and styled using SASS. It features a secure login system connected to an API. Users must log in to access the calendar, and the page only refreshes when the user logs out (token stored in memory).
 
-This project is not completely responsive.
+## Overview
+
+The Internal Calendar Project is a web application built with React.js and styled using SASS. It features a secure login system connected to an API. Users must log in to access the calendar, and the page only refreshes when the user logs out (token stored in memory).
 
 **Screenshots: (more img inside the folder Internal-calendar)** 
 
@@ -32,6 +33,7 @@ This project is not completely responsive.
 - Page refresh only occurs upon user logout (token stored in memory).
 
 ---
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
@@ -40,6 +42,7 @@ Before you begin, ensure you have met the following requirements:
 - Clone this repository to your local machine.
 
 ---
+
 ## Getting Started
 
 Follow these steps to get your project up and running:
@@ -54,6 +57,7 @@ Create a .env file in the root of your project and add necessary environment var
 Open your browser and visit http://localhost:3000 to access the Radom Generator.
 
 ---
+
 ## Project structure 
 
 - `/src`: Contains the source code for the ReactJS frontend.
@@ -69,7 +73,7 @@ To use the Internal Calendar:
 * The page only refreshes if you log out (token stored in memory).
 
 ## License
-This project is licensed under the MIT License. 
+This project is licensed under the MIT License.
 
 
  
